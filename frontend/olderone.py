@@ -5,18 +5,26 @@ import os
 
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
-from app import initialize_recommender, query_recommendations, fetch_all_titles, fetch_movies_by_ids
+from app import initialize_recommender, query_recommendations, fetch_all_titles
 
 # AI graph done
 rec = initialize_recommender()
 
-def fetch_poster(movie_id):
-    url = "https://api.themoviedb.org/3/movie/{}?api_key=8265bd1679663a7ea12ac168da84d2e8&language=en-US".format(movie_id)
-    data = requests.get(url)
-    data = data.json()
-    poster_path = data['poster_path']
-    full_path = "https://image.tmdb.org/t/p/w500/" + poster_path
-    return full_path
+def get_movie_poster(movie_id, api_key="f3f98776fabedfa7e3f1a8dddd61ace4"):
+
+    base_url = "https://api.themoviedb.org/3/movie/{}?api_key={}&language=en-US".format(movie_id, api_key)
+    response = requests.get(base_url)
+
+    if response.status_code == 200:
+        data = response.json()
+        poster_path = data.get("poster_path")
+        if poster_path:
+            return "https://image.tmdb.org/t/p/w500" + poster_path
+        else:
+            return None
+    else:
+        print(f"Error: {response.status_code}, {response.text}")
+        return None
 
 
 st.header('Movie Recommender System')
@@ -40,7 +48,7 @@ if st.button('Show Recommendation'):
     # rec_movie_data
     for movie in rec_movies:
         movie_id = movie["movie_id"]
-        poster_url = fetch_poster(movie_id)
+        poster_url = get_movie_poster(movie_id)
         print(f"movie post: {poster_url}")
         movie["poster"] = poster_url  # directly add poster field
 
@@ -50,17 +58,17 @@ if st.button('Show Recommendation'):
     col1, col2, col3, col4, col5 = st.columns(5)
     with col1:
         st.text(rec_movies[0]["title"]) # title
-        st.image(rec_movies[0]["poster"]) # poster
+        # st.image(rec_movies[0]["poster"]) # poster
     with col2:
         st.text(rec_movies[1]["title"])
-        st.image(rec_movies[1]["poster"])
+        # st.image(rec_movies[1]["poster"])
 
     with col3:
         st.text(rec_movies[2]["title"])
-        st.image(rec_movies[2]["poster"])
+        # st.image(rec_movies[2]["poster"])
     with col4:
         st.text(rec_movies[3]["title"])
-        st.image(rec_movies[3]["poster"])
+        # st.image(rec_movies[3]["poster"])
     with col5:
         st.text(rec_movies[4]["title"])
-        st.image(rec_movies[4]["poster"])
+        # st.image(rec_movies[4]["poster"])
