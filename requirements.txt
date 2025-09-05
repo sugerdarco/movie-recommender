@@ -1,0 +1,6 @@
+sentence-transformers
+hnswlib
+scikit-learn
+numpy
+pandas
+requests

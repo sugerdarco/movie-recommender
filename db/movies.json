@@ -1,0 +1,1310 @@
+[
+  {
+    "id": 1,
+    "title": "Solar Code",
+    "genres": [
+      "Animation"
+    ],
+    "director": [
+      "Bong Joon-ho"
+    ],
+    "description": "Solar Code is a Animation film directed by Bong Joon-ho. It follows a crew that crosses galaxies in search for a new home.",
+    "movie_id": "tt1000001"
+  },
+  {
+    "id": 2,
+    "title": "Crimson Echoes",
+    "genres": [
+      "Sport",
+      "Comedy"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "Crimson Echoes is a Sport, Comedy film directed by Sofia Coppola. It follows a crew that crosses galaxies in search for a new home.",
+    "movie_id": "tt1000002"
+  },
+  {
+    "id": 3,
+    "title": "First Echoes",
+    "genres": [
+      "War",
+      "Horror",
+      "Comedy"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "First Echoes is a War, Horror, Comedy film directed by Sofia Coppola. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000003"
+  },
+  {
+    "id": 4,
+    "title": "Infinite Edge",
+    "genres": [
+      "Comedy"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "description": "Infinite Edge is a Comedy film directed by Steven Spielberg. It follows a slow-burning psychological drama about memory and loss.",
+    "movie_id": "tt1000004"
+  },
+  {
+    "id": 5,
+    "title": "First Riders",
+    "genres": [
+      "History"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "description": "First Riders is a History film directed by Christopher Nolan. It follows a slow-burning psychological drama about memory and loss.",
+    "movie_id": "tt1000005"
+  },
+  {
+    "id": 6,
+    "title": "Solar Voyage",
+    "genres": [
+      "Comedy"
+    ],
+    "director": [
+      "Taika Waititi"
+    ],
+    "description": "Solar Voyage is a Comedy film directed by Taika Waititi. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000006"
+  },
+  {
+    "id": 7,
+    "title": "Silent Dreams",
+    "genres": [
+      "Animation"
+    ],
+    "director": [
+      "Ridley Scott"
+    ],
+    "description": "Silent Dreams is a Animation film directed by Ridley Scott. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000007"
+  },
+  {
+    "id": 8,
+    "title": "Shadow Reckoning",
+    "genres": [
+      "Thriller"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "Shadow Reckoning is a Thriller film directed by Sofia Coppola. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000008"
+  },
+  {
+    "id": 9,
+    "title": "Broken Riders",
+    "genres": [
+      "Family",
+      "Comedy",
+      "Action"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "description": "Broken Riders is a Family, Comedy, Action film directed by Steven Spielberg. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000009"
+  },
+  {
+    "id": 10,
+    "title": "First Edge",
+    "genres": [
+      "Western",
+      "Fantasy"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "description": "First Edge is a Western, Fantasy film directed by Steven Spielberg. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000010"
+  },
+  {
+    "id": 11,
+    "title": "Frozen Legacy",
+    "genres": [
+      "Romance"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Frozen Legacy is a Romance film directed by Jordan Peele. It follows a slow-burning psychological drama about memory and loss.",
+    "movie_id": "tt1000011"
+  },
+  {
+    "id": 12,
+    "title": "Infinite Reckoning",
+    "genres": [
+      "Sport"
+    ],
+    "director": [
+      "Taika Waititi"
+    ],
+    "description": "Infinite Reckoning is a Sport film directed by Taika Waititi. It follows a slow-burning psychological drama about memory and loss.",
+    "movie_id": "tt1000012"
+  },
+  {
+    "id": 13,
+    "title": "Golden Empire",
+    "genres": [
+      "Western",
+      "Thriller",
+      "Fantasy"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "Golden Empire is a Western, Thriller, Fantasy film directed by Martin Scorsese. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000013"
+  },
+  {
+    "id": 14,
+    "title": "Broken Whispers",
+    "genres": [
+      "Action"
+    ],
+    "director": [
+      "Taika Waititi"
+    ],
+    "description": "Broken Whispers is a Action film directed by Taika Waititi. It follows a team of scientists racing against time to stop a catastrophe.",
+    "movie_id": "tt1000014"
+  },
+  {
+    "id": 15,
+    "title": "Crimson Dreams",
+    "genres": [
+      "Animation"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "Crimson Dreams is a Animation film directed by Martin Scorsese. It follows bounty hunters chasing a rogue AI.",
+    "movie_id": "tt1000015"
+  },
+  {
+    "id": 16,
+    "title": "First Reckoning",
+    "genres": [
+      "Romance"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "First Reckoning is a Romance film directed by Sofia Coppola. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000016"
+  },
+  {
+    "id": 17,
+    "title": "Broken Streets",
+    "genres": [
+      "Drama",
+      "Action",
+      "Romance"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Broken Streets is a Drama, Action, Romance film directed by Jordan Peele. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000017"
+  },
+  {
+    "id": 18,
+    "title": "Secret Riders",
+    "genres": [
+      "Sport",
+      "Horror",
+      "Comedy"
+    ],
+    "director": [
+      "Bong Joon-ho"
+    ],
+    "description": "Secret Riders is a Sport, Horror, Comedy film directed by Bong Joon-ho. It follows a crew that crosses galaxies in search for a new home.",
+    "movie_id": "tt1000018"
+  },
+  {
+    "id": 19,
+    "title": "Silent Legacy",
+    "genres": [
+      "Fantasy",
+      "Music"
+    ],
+    "director": [
+      "Guillermo del Toro"
+    ],
+    "description": "Silent Legacy is a Fantasy, Music film directed by Guillermo del Toro. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000019"
+  },
+  {
+    "id": 20,
+    "title": "Frozen Empire",
+    "genres": [
+      "Crime"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Frozen Empire is a Crime film directed by Jordan Peele. It follows a team of scientists racing against time to stop a catastrophe.",
+    "movie_id": "tt1000020"
+  },
+  {
+    "id": 21,
+    "title": "Neon Voyage",
+    "genres": [
+      "Sci-Fi",
+      "Thriller",
+      "Animation"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "Neon Voyage is a Sci-Fi, Thriller, Animation film directed by Sofia Coppola. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000021"
+  },
+  {
+    "id": 22,
+    "title": "Crimson Legacy",
+    "genres": [
+      "Family"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "description": "Crimson Legacy is a Family film directed by James Cameron. It follows a slow-burning psychological drama about memory and loss.",
+    "movie_id": "tt1000022"
+  },
+  {
+    "id": 23,
+    "title": "Crimson Legacy",
+    "genres": [
+      "Biography"
+    ],
+    "director": [
+      "Patty Jenkins"
+    ],
+    "description": "Crimson Legacy is a Biography film directed by Patty Jenkins. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000023"
+  },
+  {
+    "id": 24,
+    "title": "Solar Echoes",
+    "genres": [
+      "Fantasy"
+    ],
+    "director": [
+      "Ridley Scott"
+    ],
+    "description": "Solar Echoes is a Fantasy film directed by Ridley Scott. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000024"
+  },
+  {
+    "id": 25,
+    "title": "Last Voyage",
+    "genres": [
+      "War"
+    ],
+    "director": [
+      "Ridley Scott"
+    ],
+    "description": "Last Voyage is a War film directed by Ridley Scott. It follows a team of scientists racing against time to stop a catastrophe.",
+    "movie_id": "tt1000025"
+  },
+  {
+    "id": 26,
+    "title": "Midnight Horizon",
+    "genres": [
+      "Documentary",
+      "History"
+    ],
+    "director": [
+      "Patty Jenkins"
+    ],
+    "description": "Midnight Horizon is a Documentary, History film directed by Patty Jenkins. It follows bounty hunters chasing a rogue AI.",
+    "movie_id": "tt1000026"
+  },
+  {
+    "id": 27,
+    "title": "Shadow Streets",
+    "genres": [
+      "Animation",
+      "Adventure",
+      "War"
+    ],
+    "director": [
+      "Wes Anderson"
+    ],
+    "description": "Shadow Streets is a Animation, Adventure, War film directed by Wes Anderson. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000027"
+  },
+  {
+    "id": 28,
+    "title": "Last Riders",
+    "genres": [
+      "War",
+      "Music"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "description": "Last Riders is a War, Music film directed by Christopher Nolan. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000028"
+  },
+  {
+    "id": 29,
+    "title": "Neon Edge",
+    "genres": [
+      "Crime"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "description": "Neon Edge is a Crime film directed by Steven Spielberg. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000029"
+  },
+  {
+    "id": 30,
+    "title": "Secret Empire",
+    "genres": [
+      "Western",
+      "Animation",
+      "History"
+    ],
+    "director": [
+      "Ridley Scott"
+    ],
+    "description": "Secret Empire is a Western, Animation, History film directed by Ridley Scott. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000030"
+  },
+  {
+    "id": 31,
+    "title": "Silent Chronicle",
+    "genres": [
+      "Crime",
+      "Action"
+    ],
+    "director": [
+      "Patty Jenkins"
+    ],
+    "description": "Silent Chronicle is a Crime, Action film directed by Patty Jenkins. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000031"
+  },
+  {
+    "id": 32,
+    "title": "Hidden Empire",
+    "genres": [
+      "Family"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "Hidden Empire is a Family film directed by Sofia Coppola. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000032"
+  },
+  {
+    "id": 33,
+    "title": "Hidden Whispers",
+    "genres": [
+      "Thriller"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "Hidden Whispers is a Thriller film directed by Sofia Coppola. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000033"
+  },
+  {
+    "id": 34,
+    "title": "Neon Voyage",
+    "genres": [
+      "Sci-Fi",
+      "Sport"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "Neon Voyage is a Sci-Fi, Sport film directed by Martin Scorsese. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000034"
+  },
+  {
+    "id": 35,
+    "title": "Neon Voyage",
+    "genres": [
+      "Animation"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "description": "Neon Voyage is a Animation film directed by Christopher Nolan. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000035"
+  },
+  {
+    "id": 36,
+    "title": "Lost Edge",
+    "genres": [
+      "Documentary",
+      "Romance"
+    ],
+    "director": [
+      "Denis Villeneuve"
+    ],
+    "description": "Lost Edge is a Documentary, Romance film directed by Denis Villeneuve. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000036"
+  },
+  {
+    "id": 37,
+    "title": "Broken Empire",
+    "genres": [
+      "Adventure",
+      "Fantasy",
+      "Family"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "description": "Broken Empire is a Adventure, Fantasy, Family film directed by James Cameron. It follows bounty hunters chasing a rogue AI.",
+    "movie_id": "tt1000037"
+  },
+  {
+    "id": 38,
+    "title": "First Empire",
+    "genres": [
+      "Sci-Fi",
+      "Fantasy",
+      "Documentary"
+    ],
+    "director": [
+      "Denis Villeneuve"
+    ],
+    "description": "First Empire is a Sci-Fi, Fantasy, Documentary film directed by Denis Villeneuve. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000038"
+  },
+  {
+    "id": 39,
+    "title": "Neon Horizon",
+    "genres": [
+      "Action",
+      "Animation",
+      "Horror"
+    ],
+    "director": [
+      "Bong Joon-ho"
+    ],
+    "description": "Neon Horizon is a Action, Animation, Horror film directed by Bong Joon-ho. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000039"
+  },
+  {
+    "id": 40,
+    "title": "Golden Whispers",
+    "genres": [
+      "Comedy",
+      "Fantasy",
+      "History"
+    ],
+    "director": [
+      "Guillermo del Toro"
+    ],
+    "description": "Golden Whispers is a Comedy, Fantasy, History film directed by Guillermo del Toro. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000040"
+  },
+  {
+    "id": 41,
+    "title": "Last Edge",
+    "genres": [
+      "Horror",
+      "History",
+      "Documentary"
+    ],
+    "director": [
+      "Wes Anderson"
+    ],
+    "description": "Last Edge is a Horror, History, Documentary film directed by Wes Anderson. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000041"
+  },
+  {
+    "id": 42,
+    "title": "Frozen Dawn",
+    "genres": [
+      "Crime",
+      "Fantasy"
+    ],
+    "director": [
+      "Taika Waititi"
+    ],
+    "description": "Frozen Dawn is a Crime, Fantasy film directed by Taika Waititi. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000042"
+  },
+  {
+    "id": 43,
+    "title": "First Dawn",
+    "genres": [
+      "Mystery",
+      "Biography",
+      "Action"
+    ],
+    "director": [
+      "Bong Joon-ho"
+    ],
+    "description": "First Dawn is a Mystery, Biography, Action film directed by Bong Joon-ho. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000043"
+  },
+  {
+    "id": 44,
+    "title": "Neon Horizon",
+    "genres": [
+      "Romance",
+      "Crime",
+      "Fantasy"
+    ],
+    "director": [
+      "Guillermo del Toro"
+    ],
+    "description": "Neon Horizon is a Romance, Crime, Fantasy film directed by Guillermo del Toro. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000044"
+  },
+  {
+    "id": 45,
+    "title": "Neon Horizon",
+    "genres": [
+      "Sport",
+      "Adventure"
+    ],
+    "director": [
+      "Bong Joon-ho"
+    ],
+    "description": "Neon Horizon is a Sport, Adventure film directed by Bong Joon-ho. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000045"
+  },
+  {
+    "id": 46,
+    "title": "Frozen Chronicle",
+    "genres": [
+      "Crime",
+      "Mystery"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "description": "Frozen Chronicle is a Crime, Mystery film directed by Steven Spielberg. It follows bounty hunters chasing a rogue AI.",
+    "movie_id": "tt1000046"
+  },
+  {
+    "id": 47,
+    "title": "Shadow Whispers",
+    "genres": [
+      "History",
+      "Crime",
+      "Animation"
+    ],
+    "director": [
+      "Denis Villeneuve"
+    ],
+    "description": "Shadow Whispers is a History, Crime, Animation film directed by Denis Villeneuve. It follows bounty hunters chasing a rogue AI.",
+    "movie_id": "tt1000047"
+  },
+  {
+    "id": 48,
+    "title": "Silent Empire",
+    "genres": [
+      "Mystery",
+      "Sport"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Silent Empire is a Mystery, Sport film directed by Jordan Peele. It follows a slow-burning psychological drama about memory and loss.",
+    "movie_id": "tt1000048"
+  },
+  {
+    "id": 49,
+    "title": "Infinite Echoes",
+    "genres": [
+      "Sport",
+      "Romance",
+      "Family"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Infinite Echoes is a Sport, Romance, Family film directed by Jordan Peele. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000049"
+  },
+  {
+    "id": 50,
+    "title": "Lost Echoes",
+    "genres": [
+      "War"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "description": "Lost Echoes is a War film directed by Steven Spielberg. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000050"
+  },
+  {
+    "id": 51,
+    "title": "Midnight Horizon",
+    "genres": [
+      "Fantasy",
+      "Sci-Fi",
+      "Mystery"
+    ],
+    "director": [
+      "Wes Anderson"
+    ],
+    "description": "Midnight Horizon is a Fantasy, Sci-Fi, Mystery film directed by Wes Anderson. It follows a crew that crosses galaxies in search for a new home.",
+    "movie_id": "tt1000051"
+  },
+  {
+    "id": 52,
+    "title": "Solar Voyage",
+    "genres": [
+      "Sport",
+      "Action"
+    ],
+    "director": [
+      "Guillermo del Toro"
+    ],
+    "description": "Solar Voyage is a Sport, Action film directed by Guillermo del Toro. It follows a team of scientists racing against time to stop a catastrophe.",
+    "movie_id": "tt1000052"
+  },
+  {
+    "id": 53,
+    "title": "Silent Echoes",
+    "genres": [
+      "Horror",
+      "Drama",
+      "Fantasy"
+    ],
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "description": "Silent Echoes is a Horror, Drama, Fantasy film directed by Quentin Tarantino. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000053"
+  },
+  {
+    "id": 54,
+    "title": "Broken Dreams",
+    "genres": [
+      "Romance"
+    ],
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "description": "Broken Dreams is a Romance film directed by Quentin Tarantino. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000054"
+  },
+  {
+    "id": 55,
+    "title": "Midnight Quest",
+    "genres": [
+      "Mystery",
+      "Family",
+      "Fantasy"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Midnight Quest is a Mystery, Family, Fantasy film directed by Jordan Peele. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000055"
+  },
+  {
+    "id": 56,
+    "title": "Solar Reckoning",
+    "genres": [
+      "Adventure",
+      "Crime",
+      "Mystery"
+    ],
+    "director": [
+      "Denis Villeneuve"
+    ],
+    "description": "Solar Reckoning is a Adventure, Crime, Mystery film directed by Denis Villeneuve. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000056"
+  },
+  {
+    "id": 57,
+    "title": "Crimson Reckoning",
+    "genres": [
+      "History",
+      "Sport",
+      "Biography"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "description": "Crimson Reckoning is a History, Sport, Biography film directed by James Cameron. It follows a crew that crosses galaxies in search for a new home.",
+    "movie_id": "tt1000057"
+  },
+  {
+    "id": 58,
+    "title": "Midnight Chronicle",
+    "genres": [
+      "Sport",
+      "Biography",
+      "Thriller"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "Midnight Chronicle is a Sport, Biography, Thriller film directed by Martin Scorsese. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000058"
+  },
+  {
+    "id": 59,
+    "title": "Frozen Echoes",
+    "genres": [
+      "Documentary"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "Frozen Echoes is a Documentary film directed by Martin Scorsese. It follows a crew that crosses galaxies in search for a new home.",
+    "movie_id": "tt1000059"
+  },
+  {
+    "id": 60,
+    "title": "Crimson Empire",
+    "genres": [
+      "Family",
+      "Documentary"
+    ],
+    "director": [
+      "Taika Waititi"
+    ],
+    "description": "Crimson Empire is a Family, Documentary film directed by Taika Waititi. It follows a team of scientists racing against time to stop a catastrophe.",
+    "movie_id": "tt1000060"
+  },
+  {
+    "id": 61,
+    "title": "Silent Legacy",
+    "genres": [
+      "Drama",
+      "Biography",
+      "Horror"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "description": "Silent Legacy is a Drama, Biography, Horror film directed by Christopher Nolan. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000061"
+  },
+  {
+    "id": 62,
+    "title": "Infinite Dawn",
+    "genres": [
+      "Action",
+      "Crime",
+      "Biography"
+    ],
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "description": "Infinite Dawn is a Action, Crime, Biography film directed by Quentin Tarantino. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000062"
+  },
+  {
+    "id": 63,
+    "title": "Solar Reckoning",
+    "genres": [
+      "Crime"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "Solar Reckoning is a Crime film directed by Martin Scorsese. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000063"
+  },
+  {
+    "id": 64,
+    "title": "Frozen Streets",
+    "genres": [
+      "Documentary",
+      "Romance",
+      "Music"
+    ],
+    "director": [
+      "Greta Gerwig"
+    ],
+    "description": "Frozen Streets is a Documentary, Romance, Music film directed by Greta Gerwig. It follows bounty hunters chasing a rogue AI.",
+    "movie_id": "tt1000064"
+  },
+  {
+    "id": 65,
+    "title": "Secret Streets",
+    "genres": [
+      "Sport"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "description": "Secret Streets is a Sport film directed by Christopher Nolan. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000065"
+  },
+  {
+    "id": 66,
+    "title": "Silent Edge",
+    "genres": [
+      "Biography",
+      "Action",
+      "Family"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Silent Edge is a Biography, Action, Family film directed by Jordan Peele. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000066"
+  },
+  {
+    "id": 67,
+    "title": "Solar Chronicle",
+    "genres": [
+      "Western"
+    ],
+    "director": [
+      "Patty Jenkins"
+    ],
+    "description": "Solar Chronicle is a Western film directed by Patty Jenkins. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000067"
+  },
+  {
+    "id": 68,
+    "title": "Lost Voyage",
+    "genres": [
+      "Drama",
+      "Sci-Fi",
+      "Romance"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "Lost Voyage is a Drama, Sci-Fi, Romance film directed by Sofia Coppola. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000068"
+  },
+  {
+    "id": 69,
+    "title": "Secret Edge",
+    "genres": [
+      "Sport",
+      "Action",
+      "Crime"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "description": "Secret Edge is a Sport, Action, Crime film directed by James Cameron. It follows a slow-burning psychological drama about memory and loss.",
+    "movie_id": "tt1000069"
+  },
+  {
+    "id": 70,
+    "title": "Golden Reckoning",
+    "genres": [
+      "Romance",
+      "Sport",
+      "Drama"
+    ],
+    "director": [
+      "Taika Waititi"
+    ],
+    "description": "Golden Reckoning is a Romance, Sport, Drama film directed by Taika Waititi. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000070"
+  },
+  {
+    "id": 71,
+    "title": "Solar Voyage",
+    "genres": [
+      "Documentary"
+    ],
+    "director": [
+      "Denis Villeneuve"
+    ],
+    "description": "Solar Voyage is a Documentary film directed by Denis Villeneuve. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000071"
+  },
+  {
+    "id": 72,
+    "title": "Silent Code",
+    "genres": [
+      "Action",
+      "Family",
+      "Mystery"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "description": "Silent Code is a Action, Family, Mystery film directed by Steven Spielberg. It follows a slow-burning psychological drama about memory and loss.",
+    "movie_id": "tt1000072"
+  },
+  {
+    "id": 73,
+    "title": "Frozen Edge",
+    "genres": [
+      "Action",
+      "Western",
+      "Family"
+    ],
+    "director": [
+      "Bong Joon-ho"
+    ],
+    "description": "Frozen Edge is a Action, Western, Family film directed by Bong Joon-ho. It follows a team of scientists racing against time to stop a catastrophe.",
+    "movie_id": "tt1000073"
+  },
+  {
+    "id": 74,
+    "title": "Lost Edge",
+    "genres": [
+      "Sci-Fi",
+      "Comedy"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "Lost Edge is a Sci-Fi, Comedy film directed by Martin Scorsese. It follows a slow-burning psychological drama about memory and loss.",
+    "movie_id": "tt1000074"
+  },
+  {
+    "id": 75,
+    "title": "Broken Echoes",
+    "genres": [
+      "Fantasy",
+      "Romance"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Broken Echoes is a Fantasy, Romance film directed by Jordan Peele. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000075"
+  },
+  {
+    "id": 76,
+    "title": "Secret Chronicle",
+    "genres": [
+      "Drama"
+    ],
+    "director": [
+      "Denis Villeneuve"
+    ],
+    "description": "Secret Chronicle is a Drama film directed by Denis Villeneuve. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000076"
+  },
+  {
+    "id": 77,
+    "title": "Frozen Quest",
+    "genres": [
+      "History",
+      "Biography"
+    ],
+    "director": [
+      "Ridley Scott"
+    ],
+    "description": "Frozen Quest is a History, Biography film directed by Ridley Scott. It follows a team of scientists racing against time to stop a catastrophe.",
+    "movie_id": "tt1000077"
+  },
+  {
+    "id": 78,
+    "title": "Solar Echoes",
+    "genres": [
+      "Drama",
+      "Sci-Fi"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "Solar Echoes is a Drama, Sci-Fi film directed by Sofia Coppola. It follows a team of scientists racing against time to stop a catastrophe.",
+    "movie_id": "tt1000078"
+  },
+  {
+    "id": 79,
+    "title": "Infinite Empire",
+    "genres": [
+      "Drama",
+      "Adventure",
+      "Western"
+    ],
+    "director": [
+      "Wes Anderson"
+    ],
+    "description": "Infinite Empire is a Drama, Adventure, Western film directed by Wes Anderson. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000079"
+  },
+  {
+    "id": 80,
+    "title": "Shadow Chronicle",
+    "genres": [
+      "Documentary",
+      "Animation",
+      "Crime"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "description": "Shadow Chronicle is a Documentary, Animation, Crime film directed by James Cameron. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000080"
+  },
+  {
+    "id": 81,
+    "title": "Secret Horizon",
+    "genres": [
+      "Sci-Fi",
+      "Action"
+    ],
+    "director": [
+      "Guillermo del Toro"
+    ],
+    "description": "Secret Horizon is a Sci-Fi, Action film directed by Guillermo del Toro. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000081"
+  },
+  {
+    "id": 82,
+    "title": "Infinite Whispers",
+    "genres": [
+      "Music"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Infinite Whispers is a Music film directed by Jordan Peele. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000082"
+  },
+  {
+    "id": 83,
+    "title": "Neon Riders",
+    "genres": [
+      "Animation"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "description": "Neon Riders is a Animation film directed by James Cameron. It follows bounty hunters chasing a rogue AI.",
+    "movie_id": "tt1000083"
+  },
+  {
+    "id": 84,
+    "title": "Hidden Edge",
+    "genres": [
+      "Family",
+      "Action",
+      "War"
+    ],
+    "director": [
+      "Steven Spielberg"
+    ],
+    "description": "Hidden Edge is a Family, Action, War film directed by Steven Spielberg. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000084"
+  },
+  {
+    "id": 85,
+    "title": "Last Quest",
+    "genres": [
+      "Thriller",
+      "Animation"
+    ],
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "description": "Last Quest is a Thriller, Animation film directed by Quentin Tarantino. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000085"
+  },
+  {
+    "id": 86,
+    "title": "Infinite Quest",
+    "genres": [
+      "Comedy",
+      "Action",
+      "Thriller"
+    ],
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "description": "Infinite Quest is a Comedy, Action, Thriller film directed by Quentin Tarantino. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000086"
+  },
+  {
+    "id": 87,
+    "title": "Lost Reckoning",
+    "genres": [
+      "Music",
+      "Action",
+      "Sci-Fi"
+    ],
+    "director": [
+      "Guillermo del Toro"
+    ],
+    "description": "Lost Reckoning is a Music, Action, Sci-Fi film directed by Guillermo del Toro. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000087"
+  },
+  {
+    "id": 88,
+    "title": "Infinite Voyage",
+    "genres": [
+      "Sport",
+      "War"
+    ],
+    "director": [
+      "Jordan Peele"
+    ],
+    "description": "Infinite Voyage is a Sport, War film directed by Jordan Peele. It follows a young musician's rise to fame against all odds.",
+    "movie_id": "tt1000088"
+  },
+  {
+    "id": 89,
+    "title": "Solar Chronicle",
+    "genres": [
+      "Action",
+      "Music"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "description": "Solar Chronicle is a Action, Music film directed by James Cameron. It follows a team of scientists racing against time to stop a catastrophe.",
+    "movie_id": "tt1000089"
+  },
+  {
+    "id": 90,
+    "title": "Golden Riders",
+    "genres": [
+      "Horror",
+      "History",
+      "Drama"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "Golden Riders is a Horror, History, Drama film directed by Martin Scorsese. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000090"
+  },
+  {
+    "id": 91,
+    "title": "Solar Code",
+    "genres": [
+      "Action"
+    ],
+    "director": [
+      "Christopher Nolan"
+    ],
+    "description": "Solar Code is a Action film directed by Christopher Nolan. It follows a heist gone wrong leading to unexpected friendships.",
+    "movie_id": "tt1000091"
+  },
+  {
+    "id": 92,
+    "title": "Shadow Riders",
+    "genres": [
+      "Drama",
+      "History"
+    ],
+    "director": [
+      "Sofia Coppola"
+    ],
+    "description": "Shadow Riders is a Drama, History film directed by Sofia Coppola. It follows a sports team fighting corruption to win a championship.",
+    "movie_id": "tt1000092"
+  },
+  {
+    "id": 93,
+    "title": "Hidden Voyage",
+    "genres": [
+      "Sci-Fi",
+      "Fantasy"
+    ],
+    "director": [
+      "Ridley Scott"
+    ],
+    "description": "Hidden Voyage is a Sci-Fi, Fantasy film directed by Ridley Scott. It follows a crew that crosses galaxies in search for a new home.",
+    "movie_id": "tt1000093"
+  },
+  {
+    "id": 94,
+    "title": "Solar Empire",
+    "genres": [
+      "Comedy"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "Solar Empire is a Comedy film directed by Martin Scorsese. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000094"
+  },
+  {
+    "id": 95,
+    "title": "Hidden Chronicle",
+    "genres": [
+      "Adventure",
+      "Biography",
+      "Mystery"
+    ],
+    "director": [
+      "Quentin Tarantino"
+    ],
+    "description": "Hidden Chronicle is a Adventure, Biography, Mystery film directed by Quentin Tarantino. It follows a crew that crosses galaxies in search for a new home.",
+    "movie_id": "tt1000095"
+  },
+  {
+    "id": 96,
+    "title": "Broken Edge",
+    "genres": [
+      "Biography",
+      "Comedy",
+      "Western"
+    ],
+    "director": [
+      "Greta Gerwig"
+    ],
+    "description": "Broken Edge is a Biography, Comedy, Western film directed by Greta Gerwig. It follows a haunted town with a dark secret.",
+    "movie_id": "tt1000096"
+  },
+  {
+    "id": 97,
+    "title": "Broken Streets",
+    "genres": [
+      "Documentary"
+    ],
+    "director": [
+      "James Cameron"
+    ],
+    "description": "Broken Streets is a Documentary film directed by James Cameron. It follows a romance that blossoms on a long sea voyage.",
+    "movie_id": "tt1000097"
+  },
+  {
+    "id": 98,
+    "title": "Secret Whispers",
+    "genres": [
+      "Western",
+      "Documentary"
+    ],
+    "director": [
+      "Denis Villeneuve"
+    ],
+    "description": "Secret Whispers is a Western, Documentary film directed by Denis Villeneuve. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000098"
+  },
+  {
+    "id": 99,
+    "title": "First Code",
+    "genres": [
+      "Documentary",
+      "Action",
+      "Adventure"
+    ],
+    "director": [
+      "Martin Scorsese"
+    ],
+    "description": "First Code is a Documentary, Action, Adventure film directed by Martin Scorsese. It follows bounty hunters chasing a rogue AI.",
+    "movie_id": "tt1000099"
+  },
+  {
+    "id": 100,
+    "title": "Silent Streets",
+    "genres": [
+      "Romance",
+      "Mystery"
+    ],
+    "director": [
+      "Bong Joon-ho"
+    ],
+    "description": "Silent Streets is a Romance, Mystery film directed by Bong Joon-ho. It follows an ex-detective battling a powerful syndicate.",
+    "movie_id": "tt1000100"
+  }
+]
