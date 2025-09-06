@@ -56,19 +56,12 @@ if st.button('Show Recommendation'):
     print(f"rec_movies with poster: {rec_movies}")
 
     col1, col2, col3, col4, col5 = st.columns(5)
-    with col1:
-        st.text(rec_movies[0]["title"]) # title
-        # st.image(rec_movies[0]["poster"]) # poster
-    with col2:
-        st.text(rec_movies[1]["title"])
-        # st.image(rec_movies[1]["poster"])
+    cols = [col1, col2, col3, col4, col5]
 
-    with col3:
-        st.text(rec_movies[2]["title"])
-        # st.image(rec_movies[2]["poster"])
-    with col4:
-        st.text(rec_movies[3]["title"])
-        # st.image(rec_movies[3]["poster"])
-    with col5:
-        st.text(rec_movies[4]["title"])
-        # st.image(rec_movies[4]["poster"])
+    for i, movie in enumerate(rec_movies[:5]):
+        with cols[i]:
+            st.text(movie["title"])  # always show title
+            if movie["poster"] is not None:  # show poster only if available
+                # st.image(movie["poster"])
+                img_html = f'<img src="{movie["poster"]}" loading="lazy" style="width:100%;">'
+                st.markdown(img_html, unsafe_allow_html=True)

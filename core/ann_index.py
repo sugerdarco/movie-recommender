@@ -1,26 +1,30 @@
-import numpy as np
-import hnswlib
-from typing import Literal, Union
+import numpy as np  # open source library having support for large arrays and matrices and has collection of high level maths functions.
+import hnswlib  # hnswlib - hierarchical navigable small world graphs - a fast library for ann(approximate nearest neighbour)
+from typing import Literal, Union # literal- restricts the allowed constant values , union - union[A,B] means either A or B
 
-class ANNIndex:
-    def __init__(self, dim, space: Union[Literal["l2", "ip", "cosine"], str] ="cosine"):
-        self.index: hnswlib.Index | None = None
-        self.built = False
-        self.max_elements = 0
-        self.num_elements = 0
-        self.dim = dim
-        self.space = space
-        self.M = 16
-        self.ef_construction = 200
-        self.ef_runtime = 50
+class ANNIndex:  #defines a class that wraps hnswlib into a neat and easy to use interface
+    def __init__(self, dim, space: Union[Literal["l2", "ip", "cosine"], str] ="cosine"): #constructor
+        #dim-dimension-total numbers in each vector
+        #l2-squared euclidean distance,ip-similarity based on inner product(dot product),cosine=1-cos(angle between 2 vectors)-default
+        self.index: hnswlib.Index | None = None #it will later hold an hnswlib index or none
+        self.built = False #boolean flag indicating that index is not fully constructed yet,set to true at end of build method
+        self.max_elements = 0 #maximum number of vectors that index can hold currently
+        self.num_elements = 0 #how many vectors are actually stroed right now
+        self.dim = dim #saves the input dim on object so that other methods can use them
+        self.space = space #saves the input space on object so that other methods can use them
+        self.M = 16 #default graph parameter which controls maximum number of connections each node can have
+        self.ef_construction = 200 #default build time search parameter,if it's higher it means more accurate graph but slower build
+        self.ef_runtime = 50 #default query time parameter,if it's higher it means better recall but slower queries
 
     def build(self, vectors: np.ndarray, ef_construction=200, M=16, buffer=1000):
-        num_elements = vectors.shape[0]
+        #method to create an index and fill it with initital batch of vectors
+        #vectors-a numpy array of shape (N,dim) where N is number of vectors and dim is their dimension
+        #buufer=extra capacity the index can hold more than initial vectors
+        num_elements = vectors.shape[0] #shape gives (rows,columns) of the matrix,shape[0] gives number of rows(=number of vectors)
         self.max_elements = num_elements + buffer
         self.num_elements = num_elements
         self.M = M
         self.ef_construction = ef_construction
-
         # init index
         self.index = hnswlib.Index(space=self.space, dim=self.dim)
         self.index.init_index(

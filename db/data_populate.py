@@ -10,7 +10,7 @@ import numpy as np
 from sentence_transformers import SentenceTransformer
 
 DB_PATH = "./db/movies.db"
-JSON_PATH = "./db/movies.json"
+JSON_PATH = "./db/movies_cleaned.json"
 
 def create_table(conn):
     conn.execute("""
